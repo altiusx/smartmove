@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "53000951480",
+    "firebase_url": "https://smartmove-e2ef9.firebaseio.com",
+    "project_id": "smartmove-e2ef9",
+    "storage_bucket": "smartmove-e2ef9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53000951480:android:01fad5cbb55af9511c864d",
+        "android_client_info": {
+          "package_name": "com.chrischoong96.smartmove"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53000951480-u42jcp72bcf03vckdhakaif9ej18heqq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chrischoong96.smartmove",
+            "certificate_hash": "c082069b7ae0685b243193062e88a3e1f9922103"
+          }
+        },
+        {
+          "client_id": "53000951480-05kco9042v539q150fur4iuqutfq2dkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNb5FvnVIUSCKY4TI05ZTMztVeQNT9xDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53000951480-05kco9042v539q150fur4iuqutfq2dkf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "53000951480-t94hpk6tpb8hlhjd6eak7rku6d06qheh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chrischoong96.smartmove"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>53000951480-t94hpk6tpb8hlhjd6eak7rku6d06qheh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.53000951480-t94hpk6tpb8hlhjd6eak7rku6d06qheh</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>53000951480-u42jcp72bcf03vckdhakaif9ej18heqq.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA0mB_cO6hA6Um1V6fFjWEptOeyy-3azQM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>53000951480</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.chrischoong96.smartmove</string>
+	<key>PROJECT_ID</key>
+	<string>smartmove-e2ef9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>smartmove-e2ef9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:53000951480:ios:06755ac77b2db1521c864d</string>
+	<key>DATABASE_URL</key>
+	<string>https://smartmove-e2ef9.firebaseio.com</string>
+</dict>
+</plist>
