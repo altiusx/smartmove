@@ -2,6 +2,12 @@
 
 An app that keeps you going wherever you are.
 
+Smartmove is an elderly-friendly Flutter application that combines a task manager along with the functionality to check bus arrival timings. 
+
+Users can easily add a task along with its location and corresponding date and time to be notified. 
+
+Bus service timings are provided by the Land Transport Authority.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
